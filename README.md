@@ -1,13 +1,13 @@
-# Events, Delegates and Lambdas (Dan Wahlin, Pluralsight)
+## Events, Delegates and Lambdas 
 
-## The Role of Events, Delegates and Event Handlers
+### The Role of Events, Delegates and Event Handlers
 
-## Creating Delegates, Events, and EventArgs
+### Creating Delegates, Events, and EventArgs
 
-## Handling Events
+### Handling Events
 
-## Lambdas, Action<T> and Func<T, TResult>
+### Lambdas, Action<T> and Func<T, TResult>
 
-## Events and Delegates in Action
+### Events and Delegates in Action
 
 
